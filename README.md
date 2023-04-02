@@ -1,4 +1,5 @@
 # Flight Delay Prediction
+Team 7 members: Guang(Jacky) Yang, Zhemang(Mia) Zhong, Sheng(Johnny) Zhou, Tzu Ching(Charlie) Chou 
 
 # Problem Statement and Objective
 Flight delays have become an important subject and problem for air transportation systems all over the world. The aviation industry is continuing to suffer from economic losses associated with flight delays all the time. According to data from the Bureau of Transportation Statistics (BTS) of the United States, more than 20% of U.S. flights were delayed in 2018. These flight delays have a severe economic impact in the U.S. which is equivalent to 40.7 billion dollars per year.
